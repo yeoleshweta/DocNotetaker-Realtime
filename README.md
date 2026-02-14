@@ -25,7 +25,7 @@ Frontend (Next.js)  →  Backend (FastAPI)  →  Groq Cloud (LLM + Whisper STT)
 
 ```bash
 # Clone
-git clone <repo-url>
+git clone https://github.com/yeoleshweta/DocNotetaker-Realtime.git
 cd medscribe
 
 # Create .env
